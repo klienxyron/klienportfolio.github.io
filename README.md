@@ -1,2 +1,0 @@
-# klienportfolio.github.io
-portfolio
